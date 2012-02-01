@@ -1,6 +1,6 @@
 package main;
 
-public class ThousandNumbers {
+public class Problem001 {
 
 	private static int totalSum = 0;
 
